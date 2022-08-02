@@ -41,7 +41,7 @@
     "tar": "^6.1.11",
     "wav-decoder": "^1.3.0",
     "yaml": "^2.1.1",
-    "execa": "^5.1.1"
+    "execa": "^6.1.0"
   },
   "devDependencies": {
     "vue": "^2.6.12",
